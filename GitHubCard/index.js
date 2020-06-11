@@ -3,6 +3,7 @@
     (replacing the placeholder with your Github name):
     https://api.github.com/users/<your name>
 */
+axios.get("ttps://api.github.com/stratified");
 
 /*
   STEP 2: Inspect and study the data coming back, this is YOUR
